@@ -1,6 +1,6 @@
 # Print a print
 ***
-## sobre
+## Sobre
 ***
 ## Tecnologias (Markdown)
 ***
